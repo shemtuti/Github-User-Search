@@ -16,3 +16,8 @@ The app is built in an offline-first approach (data acquired from the backend is
 * Glide: An image loading and caching library for Android focused on smooth scrolling.
 * Material Design Material: Design system created by Google to help teams build high-quality digital experiences.
 * Local Unit Test using JUnit.
+
+# API-Documentation
+Link: https://docs.github.com/en/rest/users/users?apiVersion=2022-11-28#about-the-users-api
+
+NB: The github API uses no authentication.
