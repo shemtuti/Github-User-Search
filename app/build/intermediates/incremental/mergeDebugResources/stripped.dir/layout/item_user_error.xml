@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white">
+
+    <ImageView
+        android:id="@+id/userPicError"
+        android:layout_width="@dimen/profile_dimen"
+        android:layout_height="@dimen/profile_dimen"
+        android:layout_marginTop="@dimen/m_15"
+        android:layout_marginStart="@dimen/m_15"
+        android:src="@drawable/ic_broken_image"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/userFullName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/m_15"
+        android:text="@string/error_getting_github_details"
+        android:textColor="@color/red"
+        android:textSize="@dimen/text_desc"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/userPicError"
+        app:layout_constraintStart_toEndOf="@+id/userPicError"
+        app:layout_constraintTop_toTopOf="@+id/userPicError" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

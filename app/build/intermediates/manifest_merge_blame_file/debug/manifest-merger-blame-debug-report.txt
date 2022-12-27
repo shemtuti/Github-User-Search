@@ -1,0 +1,168 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.github.user"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+14        android:name="com.example.github.user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.example.github.user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+18    <uses-permission android:name="android.permission.REORDER_TASKS" />
+18-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:24:5-72
+18-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:24:22-69
+19
+20    <application
+20-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:7:5-34:19
+21        android:name="com.example.github.user.SearchApplication"
+21-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:8:9-42
+22        android:allowBackup="true"
+22-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:9:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+24        android:dataExtractionRules="@xml/data_extraction_rules"
+24-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:10:9-65
+25        android:debuggable="true"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:11:9-54
+27        android:icon="@mipmap/ic_launcher"
+27-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:12:9-43
+28        android:label="@string/app_name"
+28-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:13:9-41
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:14:9-54
+30        android:supportsRtl="true"
+30-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:15:9-35
+31        android:testOnly="true"
+32        android:theme="@style/AppTheme" >
+32-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:16:9-40
+33        <activity
+33-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:18:9-30:20
+34            android:name="com.example.github.user.ui.MainActivity"
+34-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:19:13-44
+35            android:exported="true" >
+35-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:20:13-36
+36            <intent-filter>
+36-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:21:13-25:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:22:17-69
+37-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:22:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:24:17-77
+39-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:24:27-74
+40            </intent-filter>
+41
+42            <meta-data
+42-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:27:13-29:36
+43                android:name="android.app.lib_name"
+43-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:28:17-52
+44                android:value="" />
+44-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:29:17-33
+45        </activity>
+46
+47        <meta-data
+47-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:31:9-33:57
+48            android:name="preloaded_fonts"
+48-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:32:13-43
+49            android:resource="@array/preloaded_fonts" />
+49-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:33:13-54
+50
+51        <provider
+51-->[androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+52            android:name="androidx.startup.InitializationProvider"
+52-->[androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+53            android:authorities="com.example.github.user.androidx-startup"
+53-->[androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+54            android:exported="false" >
+54-->[androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+55            <meta-data
+55-->[androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+56                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+56-->[androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+57                android:value="androidx.startup" />
+57-->[androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+58            <meta-data
+58-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/27ded655faceb8251d03bf85e452777c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/27ded655faceb8251d03bf85e452777c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+60                android:value="androidx.startup" />
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/27ded655faceb8251d03bf85e452777c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+61        </provider>
+62
+63        <service
+63-->[androidx.room:room-runtime:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1c616bbffc8fef69cadfca3e5b2cffa0/transformed/room-runtime-2.4.3/AndroidManifest.xml:25:9-28:40
+64            android:name="androidx.room.MultiInstanceInvalidationService"
+64-->[androidx.room:room-runtime:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1c616bbffc8fef69cadfca3e5b2cffa0/transformed/room-runtime-2.4.3/AndroidManifest.xml:26:13-74
+65            android:directBootAware="true"
+65-->[androidx.room:room-runtime:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1c616bbffc8fef69cadfca3e5b2cffa0/transformed/room-runtime-2.4.3/AndroidManifest.xml:27:13-43
+66            android:exported="false" />
+66-->[androidx.room:room-runtime:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1c616bbffc8fef69cadfca3e5b2cffa0/transformed/room-runtime-2.4.3/AndroidManifest.xml:28:13-37
+67
+68        <activity
+68-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:27:9-34:20
+69            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+69-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:28:13-99
+70            android:exported="true"
+70-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:29:13-36
+71            android:theme="@style/WhiteBackgroundTheme" >
+71-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:30:13-56
+72            <intent-filter android:priority="-100" >
+72-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:13-33:29
+72-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:28-51
+73                <category android:name="android.intent.category.LAUNCHER" />
+73-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:24:17-77
+73-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:24:27-74
+74            </intent-filter>
+75        </activity>
+76        <activity
+76-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:35:9-42:20
+77            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+77-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:36:13-95
+78            android:exported="true"
+78-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:37:13-36
+79            android:theme="@style/WhiteBackgroundTheme" >
+79-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:38:13-56
+80            <intent-filter android:priority="-100" >
+80-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:13-33:29
+80-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:28-51
+81                <category android:name="android.intent.category.LAUNCHER" />
+81-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:24:17-77
+81-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:24:27-74
+82            </intent-filter>
+83        </activity>
+84        <activity
+84-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:43:9-50:20
+85            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+85-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:44:13-103
+86            android:exported="true"
+86-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:45:13-36
+87            android:theme="@style/WhiteBackgroundDialogTheme" >
+87-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:46:13-62
+88            <intent-filter android:priority="-100" >
+88-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:13-33:29
+88-->[androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:28-51
+89                <category android:name="android.intent.category.LAUNCHER" />
+89-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:24:17-77
+89-->/Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:24:27-74
+90            </intent-filter>
+91        </activity>
+92    </application>
+93
+94</manifest>

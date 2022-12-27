@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Github User Search</string>
+    <string name="hint_placeholder">Enter Username here…</string>
+    <string name="btn_search_user">Button to search Github User</string>
+    <string name="enter_github_username">Please enter github username</string>
+    <string name="error_getting_github_details">Error getting user github details…Please try again!</string>
+    <string name="followers">\u0020Followers</string>
+    <string name="following">\u0020Following</string>
+    <string name="repos">\u0020Repositories</string>
+    <string name="bio">Bio:\u0020</string>
+    <string name="username">Username:\u0020</string>
+    <string name="retry">Retry</string>
+</resources>

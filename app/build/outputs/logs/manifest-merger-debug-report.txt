@@ -1,0 +1,432 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.databinding:databinding-adapters:7.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/d52584fc70876543f649d740d76d891c/transformed/databinding-adapters-7.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/885ebe1bd8c6b48bb80cd8f4db2eba01/transformed/jetified-databinding-ktx-7.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/79247a2e34c63fbc3c47cbcc712d9809/transformed/databinding-runtime-7.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/faba677ea59b920d0dcd9118aee58b8d/transformed/jetified-fragment-ktx-1.5.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/43fb74dcce66206f4c74136471dd638e/transformed/jetified-activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/2df16e25f7f6305034d5f38806114ad2/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/73a17bd791cc1ebfe3f77cdb981cc87c/transformed/jetified-room-ktx-2.4.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/8fe6ee2d80307ada20a9f678c6e94590/transformed/navigation-ui-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/a9da03965f5246dd99a6a13d3c76d450/transformed/navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.7.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b8000da99593d75dc64e7b70895d10be/transformed/material-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/0f8eeef58be267358070838b7bea3c6a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/88e0d38097a27e0b127734b75baf7e68/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/3225a9885ccf7a3fbb9446b805c02b5f/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b5bd10bb5b434e57a3aae61835ac73c2/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ba088d1e571a349106090ab4d80ae712/transformed/jetified-glide-4.8.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/19406d9f1191e01f9345233450e72306/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e2809aa12c192542539c50d469829b30/transformed/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b9e15eab155515e1b079234a7e927ccb/transformed/navigation-fragment-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/55d9913b4029579859e27e77c977914a/transformed/fragment-1.5.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/159d2cce86969de4b225ea71da53030d/transformed/jetified-activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/c576b348c95dbebf720234aa69f15633/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/29d8e3a7fa63f0540e5dffe83c79b042/transformed/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e97ad1835798bfdbfde59493b428bb2b/transformed/navigation-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/28e3990ea535ce567d7d6055bdbef381/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ade589d5300c45fcc462907c371ee6cc/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/9b885fded76228c8eb936fcd3a88f333/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/c342d7d3d5f49baa4b4f9e37d6b0db9d/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/362560f4fdbc6d473073f4f93e0d6070/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e2a0c52865e93df037e4449e4b2e7a35/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e6c7988441a88bb37d47fcd6185aabc8/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/c5ef87eef45ad89b26d692195330524d/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e4dfc64b55e44cd137a1dbcb5b00a539/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/c1cf7e43a2d3e871f6f139e5188de596/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5c3f2b4c67f67d7420769390fd21951d/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/0a99fc67a699246f88a09e6fa93ef60a/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1ec0bccccaa19731a304baedbcb9fc79/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/d51875385cda7a5d2580aa39ad1d45b1/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/41cb1d6324f8eab8fd2689d8a1351427/transformed/navigation-common-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/39c656e8a82ac50397d37caf7acb2d26/transformed/navigation-common-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/eccd9e4bc7cc565512777d94f3dd5263/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/322e8f30044a045d8913e2543954716f/transformed/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1c616bbffc8fef69cadfca3e5b2cffa0/transformed/room-runtime-2.4.3/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.test.ext:junit-ktx:1.1.4] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/6014633edd9cf64e25f199e378dc9661/transformed/jetified-junit-ktx-1.1.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/548b73ad30be7eec00e012d3c7a4ecfe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/51625ab9184e1e1a697597919492e60f/transformed/jetified-viewbinding-7.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/dfac4d94886b0be6c8fe3f651be1d78f/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/27ded655faceb8251d03bf85e452777c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/becfe82099c13462f099004896681e41/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/3c162f49fb021b6feac15da767c29670/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/c9e8456dbb735a5ba28741578be2046e/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/130bf7f412b28da8352e910c14356e89/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.ext:junit:1.1.4] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/6424da8ac98e44393a4edf1a35876897/transformed/jetified-junit-1.1.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.test.services:storage:1.4.2] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/428220acad464e0b93abe28a70a9764b/transformed/jetified-storage-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.6.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ea98b5e7483791698f437db821e6e2f3/transformed/monitor-1.6.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:annotation:1.0.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/3271ae778ef0a01be140e38202ad4aff/transformed/jetified-annotation-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/6617dadaf86c2376fe94c0e04188879d/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/8f6764696a885f9be8bcbcc3a135a9f6/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/177d047b7c55ec2af989c23ce326998b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/46df4bc58dc39623b40ac933e30220e1/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/560b555cdfa46617c1ec85916d301d1d/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/0075dba5ae2a381ed8bdad2763e8dc8e/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/8e552cc7f7cc0b525955736c1ab0e8e6/transformed/jetified-gifdecoder-4.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/3e093460b85530d4c58bd175796c13ae/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/2258771ce897c007ebd07aa05f1504a1/transformed/sqlite-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/208f604e8bdd943c4dcdece31926f205/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/02078081d0bb056f34bd36158e0f7865/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b1a54f1b75175c8c2995772a9f7e29ac/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e99a155da2597f81a7eec400ee8ba52d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1229b543ee5c9e07ab45f13e1844fbda/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/26329b06df7fc760f416617a796ceb9f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:7:5-34:19
+MERGED from [com.google.android.material:material:1.7.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b8000da99593d75dc64e7b70895d10be/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b8000da99593d75dc64e7b70895d10be/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/0f8eeef58be267358070838b7bea3c6a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/0f8eeef58be267358070838b7bea3c6a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b5bd10bb5b434e57a3aae61835ac73c2/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b5bd10bb5b434e57a3aae61835ac73c2/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ba088d1e571a349106090ab4d80ae712/transformed/jetified-glide-4.8.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ba088d1e571a349106090ab4d80ae712/transformed/jetified-glide-4.8.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/322e8f30044a045d8913e2543954716f/transformed/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/322e8f30044a045d8913e2543954716f/transformed/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1c616bbffc8fef69cadfca3e5b2cffa0/transformed/room-runtime-2.4.3/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1c616bbffc8fef69cadfca3e5b2cffa0/transformed/room-runtime-2.4.3/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/548b73ad30be7eec00e012d3c7a4ecfe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/548b73ad30be7eec00e012d3c7a4ecfe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/27ded655faceb8251d03bf85e452777c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/27ded655faceb8251d03bf85e452777c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:26:5-51:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/8e552cc7f7cc0b525955736c1ab0e8e6/transformed/jetified-gifdecoder-4.8.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/8e552cc7f7cc0b525955736c1ab0e8e6/transformed/jetified-gifdecoder-4.8.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/208f604e8bdd943c4dcdece31926f205/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/208f604e8bdd943c4dcdece31926f205/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:16:9-40
+	android:dataExtractionRules
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:10:9-65
+	android:name
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:8:9-42
+activity#.ui.MainActivity
+ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:18:9-30:20
+	android:exported
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:19:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:24:27-74
+meta-data#android.app.lib_name
+ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:27:13-29:36
+	android:value
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:29:17-33
+	android:name
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:28:17-52
+meta-data#preloaded_fonts
+ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:31:9-33:57
+	android:resource
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:33:13-54
+	android:name
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:32:13-43
+uses-sdk
+INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/d52584fc70876543f649d740d76d891c/transformed/databinding-adapters-7.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/d52584fc70876543f649d740d76d891c/transformed/databinding-adapters-7.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/885ebe1bd8c6b48bb80cd8f4db2eba01/transformed/jetified-databinding-ktx-7.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/885ebe1bd8c6b48bb80cd8f4db2eba01/transformed/jetified-databinding-ktx-7.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/79247a2e34c63fbc3c47cbcc712d9809/transformed/databinding-runtime-7.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/79247a2e34c63fbc3c47cbcc712d9809/transformed/databinding-runtime-7.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/faba677ea59b920d0dcd9118aee58b8d/transformed/jetified-fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/faba677ea59b920d0dcd9118aee58b8d/transformed/jetified-fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/43fb74dcce66206f4c74136471dd638e/transformed/jetified-activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/43fb74dcce66206f4c74136471dd638e/transformed/jetified-activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/2df16e25f7f6305034d5f38806114ad2/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/2df16e25f7f6305034d5f38806114ad2/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/73a17bd791cc1ebfe3f77cdb981cc87c/transformed/jetified-room-ktx-2.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/73a17bd791cc1ebfe3f77cdb981cc87c/transformed/jetified-room-ktx-2.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/8fe6ee2d80307ada20a9f678c6e94590/transformed/navigation-ui-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/8fe6ee2d80307ada20a9f678c6e94590/transformed/navigation-ui-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/a9da03965f5246dd99a6a13d3c76d450/transformed/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/a9da03965f5246dd99a6a13d3c76d450/transformed/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.7.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b8000da99593d75dc64e7b70895d10be/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b8000da99593d75dc64e7b70895d10be/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/0f8eeef58be267358070838b7bea3c6a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/0f8eeef58be267358070838b7bea3c6a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/88e0d38097a27e0b127734b75baf7e68/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/88e0d38097a27e0b127734b75baf7e68/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/3225a9885ccf7a3fbb9446b805c02b5f/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/3225a9885ccf7a3fbb9446b805c02b5f/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b5bd10bb5b434e57a3aae61835ac73c2/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b5bd10bb5b434e57a3aae61835ac73c2/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ba088d1e571a349106090ab4d80ae712/transformed/jetified-glide-4.8.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ba088d1e571a349106090ab4d80ae712/transformed/jetified-glide-4.8.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/19406d9f1191e01f9345233450e72306/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/19406d9f1191e01f9345233450e72306/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e2809aa12c192542539c50d469829b30/transformed/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e2809aa12c192542539c50d469829b30/transformed/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b9e15eab155515e1b079234a7e927ccb/transformed/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b9e15eab155515e1b079234a7e927ccb/transformed/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/55d9913b4029579859e27e77c977914a/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/55d9913b4029579859e27e77c977914a/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/159d2cce86969de4b225ea71da53030d/transformed/jetified-activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/159d2cce86969de4b225ea71da53030d/transformed/jetified-activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/c576b348c95dbebf720234aa69f15633/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/c576b348c95dbebf720234aa69f15633/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/29d8e3a7fa63f0540e5dffe83c79b042/transformed/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/29d8e3a7fa63f0540e5dffe83c79b042/transformed/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e97ad1835798bfdbfde59493b428bb2b/transformed/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e97ad1835798bfdbfde59493b428bb2b/transformed/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/28e3990ea535ce567d7d6055bdbef381/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/28e3990ea535ce567d7d6055bdbef381/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ade589d5300c45fcc462907c371ee6cc/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ade589d5300c45fcc462907c371ee6cc/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/9b885fded76228c8eb936fcd3a88f333/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/9b885fded76228c8eb936fcd3a88f333/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/c342d7d3d5f49baa4b4f9e37d6b0db9d/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/c342d7d3d5f49baa4b4f9e37d6b0db9d/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/362560f4fdbc6d473073f4f93e0d6070/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/362560f4fdbc6d473073f4f93e0d6070/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e2a0c52865e93df037e4449e4b2e7a35/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e2a0c52865e93df037e4449e4b2e7a35/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e6c7988441a88bb37d47fcd6185aabc8/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e6c7988441a88bb37d47fcd6185aabc8/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/c5ef87eef45ad89b26d692195330524d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/c5ef87eef45ad89b26d692195330524d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e4dfc64b55e44cd137a1dbcb5b00a539/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e4dfc64b55e44cd137a1dbcb5b00a539/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/c1cf7e43a2d3e871f6f139e5188de596/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/c1cf7e43a2d3e871f6f139e5188de596/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5c3f2b4c67f67d7420769390fd21951d/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5c3f2b4c67f67d7420769390fd21951d/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/0a99fc67a699246f88a09e6fa93ef60a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/0a99fc67a699246f88a09e6fa93ef60a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1ec0bccccaa19731a304baedbcb9fc79/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1ec0bccccaa19731a304baedbcb9fc79/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/d51875385cda7a5d2580aa39ad1d45b1/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/d51875385cda7a5d2580aa39ad1d45b1/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/41cb1d6324f8eab8fd2689d8a1351427/transformed/navigation-common-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/41cb1d6324f8eab8fd2689d8a1351427/transformed/navigation-common-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/39c656e8a82ac50397d37caf7acb2d26/transformed/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/39c656e8a82ac50397d37caf7acb2d26/transformed/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/eccd9e4bc7cc565512777d94f3dd5263/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/eccd9e4bc7cc565512777d94f3dd5263/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/322e8f30044a045d8913e2543954716f/transformed/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/322e8f30044a045d8913e2543954716f/transformed/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1c616bbffc8fef69cadfca3e5b2cffa0/transformed/room-runtime-2.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1c616bbffc8fef69cadfca3e5b2cffa0/transformed/room-runtime-2.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit-ktx:1.1.4] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/6014633edd9cf64e25f199e378dc9661/transformed/jetified-junit-ktx-1.1.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit-ktx:1.1.4] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/6014633edd9cf64e25f199e378dc9661/transformed/jetified-junit-ktx-1.1.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/548b73ad30be7eec00e012d3c7a4ecfe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/548b73ad30be7eec00e012d3c7a4ecfe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/51625ab9184e1e1a697597919492e60f/transformed/jetified-viewbinding-7.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/51625ab9184e1e1a697597919492e60f/transformed/jetified-viewbinding-7.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/dfac4d94886b0be6c8fe3f651be1d78f/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/dfac4d94886b0be6c8fe3f651be1d78f/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/27ded655faceb8251d03bf85e452777c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/27ded655faceb8251d03bf85e452777c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/becfe82099c13462f099004896681e41/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/becfe82099c13462f099004896681e41/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/3c162f49fb021b6feac15da767c29670/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/3c162f49fb021b6feac15da767c29670/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/c9e8456dbb735a5ba28741578be2046e/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/c9e8456dbb735a5ba28741578be2046e/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/130bf7f412b28da8352e910c14356e89/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/130bf7f412b28da8352e910c14356e89/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit:1.1.4] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/6424da8ac98e44393a4edf1a35876897/transformed/jetified-junit-1.1.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit:1.1.4] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/6424da8ac98e44393a4edf1a35876897/transformed/jetified-junit-1.1.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.2] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/428220acad464e0b93abe28a70a9764b/transformed/jetified-storage-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.2] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/428220acad464e0b93abe28a70a9764b/transformed/jetified-storage-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.6.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ea98b5e7483791698f437db821e6e2f3/transformed/monitor-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.6.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ea98b5e7483791698f437db821e6e2f3/transformed/monitor-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:annotation:1.0.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/3271ae778ef0a01be140e38202ad4aff/transformed/jetified-annotation-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:annotation:1.0.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/3271ae778ef0a01be140e38202ad4aff/transformed/jetified-annotation-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/6617dadaf86c2376fe94c0e04188879d/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/6617dadaf86c2376fe94c0e04188879d/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/8f6764696a885f9be8bcbcc3a135a9f6/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/8f6764696a885f9be8bcbcc3a135a9f6/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/177d047b7c55ec2af989c23ce326998b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/177d047b7c55ec2af989c23ce326998b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/46df4bc58dc39623b40ac933e30220e1/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/46df4bc58dc39623b40ac933e30220e1/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/560b555cdfa46617c1ec85916d301d1d/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/560b555cdfa46617c1ec85916d301d1d/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/0075dba5ae2a381ed8bdad2763e8dc8e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/0075dba5ae2a381ed8bdad2763e8dc8e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/8e552cc7f7cc0b525955736c1ab0e8e6/transformed/jetified-gifdecoder-4.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/8e552cc7f7cc0b525955736c1ab0e8e6/transformed/jetified-gifdecoder-4.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/3e093460b85530d4c58bd175796c13ae/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/3e093460b85530d4c58bd175796c13ae/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/2258771ce897c007ebd07aa05f1504a1/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/2258771ce897c007ebd07aa05f1504a1/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/208f604e8bdd943c4dcdece31926f205/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/208f604e8bdd943c4dcdece31926f205/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/02078081d0bb056f34bd36158e0f7865/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/02078081d0bb056f34bd36158e0f7865/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b1a54f1b75175c8c2995772a9f7e29ac/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/b1a54f1b75175c8c2995772a9f7e29ac/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e99a155da2597f81a7eec400ee8ba52d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/e99a155da2597f81a7eec400ee8ba52d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1229b543ee5c9e07ab45f13e1844fbda/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1229b543ee5c9e07ab45f13e1844fbda/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/26329b06df7fc760f416617a796ceb9f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/26329b06df7fc760f416617a796ceb9f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml
+activity#com.example.github.user.ui.MainActivity
+ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:18:9-30:20
+	android:exported
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from /Users/shem2t/Documents/Android/GithubUser/app/src/main/AndroidManifest.xml:19:13-44
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/27ded655faceb8251d03bf85e452777c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/27ded655faceb8251d03bf85e452777c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/208f604e8bdd943c4dcdece31926f205/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/208f604e8bdd943c4dcdece31926f205/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/04dce3aa7a66bfc2cb73cdfc6f1f19e1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.github.user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.github.user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5acfb753098830c3425db7a46460c869/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1c616bbffc8fef69cadfca3e5b2cffa0/transformed/room-runtime-2.4.3/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1c616bbffc8fef69cadfca3e5b2cffa0/transformed/room-runtime-2.4.3/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1c616bbffc8fef69cadfca3e5b2cffa0/transformed/room-runtime-2.4.3/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.3] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/1c616bbffc8fef69cadfca3e5b2cffa0/transformed/room-runtime-2.4.3/AndroidManifest.xml:26:13-74
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/27ded655faceb8251d03bf85e452777c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/27ded655faceb8251d03bf85e452777c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/27ded655faceb8251d03bf85e452777c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:24:22-69
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:28:13-99
+intent-filter#category:name:android.intent.category.LAUNCHER
+ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:28-51
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:46:13-62
+	android:name
+		ADDED from [androidx.test:core:1.5.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/f49ff94d7c23e6b2977b3875204b2182/transformed/jetified-core-1.5.0/AndroidManifest.xml:44:13-103

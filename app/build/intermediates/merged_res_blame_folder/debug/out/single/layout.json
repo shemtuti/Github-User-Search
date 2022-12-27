@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shem2t/Documents/Android/GithubUser/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_search.xml",
+        "source": "/Users/shem2t/Documents/Android/GithubUser/app/src/main/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/shem2t/Documents/Android/GithubUser/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_follow.xml",
+        "source": "/Users/shem2t/Documents/Android/GithubUser/app/src/main/res/layout/item_follow.xml"
+    }
+]

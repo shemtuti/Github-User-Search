@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="p_2">2dp</dimen>
+    <dimen name="p_5">5dp</dimen>
+    <dimen name="p_7">7dp</dimen>
+    <dimen name="p_100">200dp</dimen>
+    <dimen name="m_1">1dp</dimen>
+    <dimen name="m_3">3dp</dimen>
+    <dimen name="m_5">5dp</dimen>
+    <dimen name="m_10">10dp</dimen>
+    <dimen name="m_15">15dp</dimen>
+    <dimen name="m_20">20dp</dimen>
+    <dimen name="nested_height">250dp</dimen>
+    <dimen name="profile_dimen_small">50dp</dimen>
+    <dimen name="profile_dimen">120dp</dimen>
+    <dimen name="text_title">25sp</dimen>
+    <dimen name="text_name">20sp</dimen>
+    <dimen name="text_username">16sp</dimen>
+    <dimen name="text_username_small">14sp</dimen>
+    <dimen name="text_desc">16sp</dimen>
+    <dimen name="text_follow">15sp</dimen>
+    <dimen name="search_text_size">18sp</dimen>
+    <dimen name="divider">1dp</dimen>
+    <dimen name="no_data_dimen">120dp</dimen>
+    <dimen name="error_text_size">18sp</dimen>
+</resources>

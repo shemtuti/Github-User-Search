@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="searchViewModel"
+            type="com.example.github.user.viewmodels.SearchViewModel" />
+    </data>
+
+
+<!--    <androidx.core.widget.NestedScrollView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent">-->
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white">
+
+        <RelativeLayout
+            android:id="@+id/rlSearch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <EditText
+                android:id="@+id/edSearchUser"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/p_7"
+                android:background="@color/grey_3"
+                android:layout_marginStart="@dimen/m_10"
+                android:layout_marginTop="@dimen/m_10"
+                android:layout_marginBottom="@dimen/m_10"
+                android:hint="@string/hint_placeholder"
+                android:importantForAutofill="no"
+                android:inputType="text"
+                android:textColor="@color/black"
+                android:textColorHint="@color/grey_5"
+                android:textSize="@dimen/search_text_size"
+                android:layout_toStartOf="@+id/imgSearchUser"/>
+
+            <ImageView
+                android:id="@+id/imgSearchUser"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/p_7"
+                android:layout_marginTop="@dimen/m_10"
+                android:layout_marginEnd="@dimen/m_10"
+                android:layout_alignParentEnd="true"
+                android:background="?attr/selectableItemBackground"
+                android:src="@drawable/ic_search_black"
+                android:contentDescription="@string/btn_search_user"/>
+
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/divider"
+            android:background="@color/primaryLightColor"
+            android:layout_marginStart="@dimen/m_10"
+            android:layout_marginEnd="@dimen/m_10"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/rlSearch" />
+
+        <RelativeLayout
+            android:visibility="gone"
+            android:id="@+id/rlUserMain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/divider">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white">
+
+                <ImageView
+                    android:id="@+id/imgUserPic"
+                    android:layout_width="@dimen/profile_dimen"
+                    android:layout_height="@dimen/profile_dimen"
+                    android:layout_marginTop="@dimen/m_15"
+                    android:layout_marginStart="@dimen/m_15"
+                    android:src="@mipmap/ic_launcher_round"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/userFullName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/m_15"
+                    android:layout_marginTop="@dimen/m_3"
+                    android:textColor="@color/primaryDarkColor"
+                    android:textSize="@dimen/text_name"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toEndOf="@+id/imgUserPic"
+                    app:layout_constraintTop_toTopOf="@+id/imgUserPic"
+                    tools:text="Full Name"/>
+
+                <TextView
+                    android:id="@+id/userName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/m_15"
+                    android:layout_marginTop="@dimen/m_10"
+                    android:textColor="@color/primaryColor"
+                    android:textStyle="bold"
+                    android:textSize="@dimen/text_username"
+                    app:layout_constraintTop_toBottomOf="@+id/userFullName"
+                    app:layout_constraintStart_toEndOf="@+id/imgUserPic"
+                    tools:text="Username" />
+
+                <TextView
+                    android:id="@+id/userDesc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/m_15"
+                    android:layout_marginEnd="@dimen/m_10"
+                    android:layout_marginTop="@dimen/m_10"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_desc"
+                    app:layout_constraintTop_toBottomOf="@+id/userName"
+                    app:layout_constraintStart_toEndOf="@+id/imgUserPic"
+                    tools:text="This is user description..." />
+
+                <TextView
+                    android:id="@+id/userFollowers"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/m_15"
+                    android:layout_marginTop="@dimen/m_15"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_follow"
+                    android:textStyle="bold"
+                    app:layout_constraintBaseline_toBaselineOf="@+id/userFollowing"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toStartOf="@+id/userFollowing"
+                    app:layout_constraintHorizontal_bias="0.5"
+                    tools:text="10 Followers" />
+
+                <TextView
+                    android:id="@+id/userFollowing"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/m_10"
+                    android:layout_marginStart="@dimen/m_10"
+                    android:layout_marginTop="@dimen/m_10"
+                    android:gravity="center_vertical"
+                    android:textAlignment="gravity"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_follow"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toStartOf="@+id/userRepositories"
+                    app:layout_constraintHorizontal_bias="0.5"
+                    app:layout_constraintStart_toEndOf="@+id/userFollowers"
+                    app:layout_constraintVertical_bias="1.0"
+                    app:layout_constraintTop_toBottomOf="@+id/imgUserPic"
+                    tools:text="20 Following" />
+
+                <TextView
+                    android:id="@+id/userRepositories"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/m_10"
+                    android:layout_marginTop="@dimen/m_15"
+                    android:gravity="center_vertical"
+                    android:textAlignment="gravity"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_follow"
+                    android:textStyle="bold"
+                    app:layout_constraintHorizontal_bias="0.5"
+                    app:layout_constraintBaseline_toBaselineOf="@+id/userFollowing"
+                    app:layout_constraintStart_toEndOf="@+id/userFollowing"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    tools:text="30 Repositories" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/lUserError"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintTop_toBottomOf="@+id/divider">
+
+            <ImageView
+                android:id="@+id/userPicError"
+                android:layout_width="@dimen/profile_dimen"
+                android:layout_height="@dimen/profile_dimen"
+                android:layout_marginTop="@dimen/m_10"
+                android:src="@drawable/no_user"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/p_5"
+                android:textColor="@color/red"
+                android:textSize="@dimen/text_desc"
+                android:textStyle="bold"
+                android:text="@string/error_getting_github_details"/>
+
+        </LinearLayout>
+
+        <View
+            android:visibility="gone"
+            android:id="@+id/divider2"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/divider"
+            android:background="@color/primaryLightColor"
+            android:layout_marginTop="@dimen/m_10"
+            android:layout_marginStart="@dimen/m_10"
+            android:layout_marginEnd="@dimen/m_10"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/rlUserMain"/>
+
+        <LinearLayout
+            android:visibility="gone"
+            android:id="@+id/lFollowMain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/m_10"
+            android:layout_marginEnd="@dimen/m_10"
+            android:layout_marginTop="@dimen/m_5"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/divider2">
+
+            <include layout="@layout/layout_follow" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:visibility="gone"
+            android:id="@+id/lFollowView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/m_5"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/divider2">
+
+            <View
+                android:background="@color/primaryLightColor"
+                android:layout_width="2dp"
+                android:layout_marginStart="1dp"
+                android:layout_marginTop="@dimen/m_1"
+                android:layout_height="match_parent"/>
+
+            <LinearLayout
+                android:visibility="invisible"
+                android:id="@+id/lFollowersNoData"
+                android:orientation="vertical"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <View
+                    android:visibility="invisible"
+                    android:background="@color/primaryLightColor"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="@dimen/m_1"
+                    android:layout_height="1dp"/>
+
+                <TextView
+                    android:visibility="invisible"
+                    style="@style/labelFollow"
+                    android:text="@string/followers"/>
+
+                <View
+                    android:visibility="invisible"
+                    android:background="@color/primaryLightColor"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"/>
+
+                <ImageView
+                    android:layout_gravity="center_horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/no_data_dimen"
+                    android:src="@drawable/followers_0"/>
+
+            </LinearLayout>
+
+            <View
+                android:background="@color/primaryLightColor"
+                android:layout_width="2dp"
+                android:layout_height="match_parent"/>
+
+            <LinearLayout
+                android:visibility="invisible"
+                android:id="@+id/lFollowingNoData"
+                android:orientation="vertical"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <View
+                    android:visibility="invisible"
+                    android:background="@color/primaryLightColor"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="@dimen/m_1"
+                    android:layout_height="1dp"/>
+
+                <TextView
+                    android:visibility="invisible"
+                    style="@style/labelFollow"
+                    android:text="@string/following"/>
+
+                <View
+                    android:visibility="invisible"
+                    android:background="@color/primaryLightColor"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"/>
+
+                <ImageView
+                    android:layout_gravity="center_horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/no_data_dimen"
+                    android:src="@drawable/following_0"/>
+
+            </LinearLayout>
+
+            <View
+                android:background="@color/primaryLightColor"
+                android:layout_width="2dp"
+                android:layout_marginEnd="1dp"
+                android:layout_marginTop="@dimen/m_1"
+                android:layout_height="match_parent"/>
+
+        </LinearLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+<!--    </androidx.core.widget.NestedScrollView>-->
+
+</layout>
