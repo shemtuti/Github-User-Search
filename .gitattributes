@@ -1,2 +1,2 @@
 # Auto detect text files and perform LF normalization
-*.Kotlin linguist-detectable=true 
+*.kotlin linguist-detectable=true 
