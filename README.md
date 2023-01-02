@@ -18,6 +18,6 @@ The app is built in an offline-first approach (data acquired from the backend is
 * Local Unit Test using JUnit.
 
 # API-Documentation
-Link: https://docs.github.com/en/rest/users/users?apiVersion=2022-11-28#about-the-users-api
+[Github API Documentation](https://docs.github.com/en/rest/users/users?apiVersion=2022-11-28#about-the-users-api)
 
 NB: The github API uses no authentication.
